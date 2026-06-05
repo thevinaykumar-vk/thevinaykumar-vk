@@ -1,18 +1,27 @@
-<div align="center">
+<!-- Profile Views - Right Side -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=thevinaykumar-vk&label=Profile%20views&color=0e75b6&style=flat" alt="thevinaykumar-vk profile views" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=TheEighteen&style=flat-square&color=blue&label=Profile+views)
+<!-- Wave -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" alt="wave" />
+</p>
 
-# 👋
+<h1 align="center">Hi there, I'm Vinay Kumar</h1>
 
-# Hi there, I'm Vinay Kumar
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://github.com/thevinaykumar-vk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+GenAI+Engineer+%7C+Python+Developer;8%2B+Years+of+Enterprise+AI+Solutions;LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;Building+the+future+of+AI+%40+Mastercard" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Senior GenAI Engineer</strong> &nbsp;|&nbsp; <strong>Python Developer</strong> &nbsp;|&nbsp; <strong>AI Architect</strong>
+</p>
 
 ---
-
-**Senior GenAI Engineer** | **Python Developer** | **AI Architect**
-
----
-
-</div>
 
 ---
 
