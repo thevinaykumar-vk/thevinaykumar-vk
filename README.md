@@ -13,7 +13,7 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://github.com/thevinaykumar-vk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+GenAI+Engineer+%7C+Python+Developer;8%2B+Years+of+Enterprise+AI+Solutions;LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;Building+the+future+of+AI+%40+Mastercard" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+GenAI+Engineer+%7C+Python+Developer;8%2B+Years+of+Enterprise+AI+Solutions;LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,12 +31,12 @@ Vinay is a passionate **Senior GenAI Engineer with 8+ years of experience** desi
 
 Beyond engineering, he has deep expertise in the full AI stack — from fine-tuning transformer models using **LoRA/QLoRA** to deploying multi-agent systems on **AWS, Azure, and GCP** using modern LLMOps practices.
 
-- 🔭 Currently building enterprise GenAI solutions at **Mastercard**
+- 🔭 Currently building enterprise GenAI solutions
 - 🌱 Working with **OpenAI, Anthropic Claude, LangChain, LangGraph, CrewAI, AutoGen**
 - 🧠 Specializing in **RAG pipelines, vector search, and agentic AI workflows**
 - ⚡ Reduced GenAI response latency by **80%** and manual effort by **60%**
 - 🎓 M.S. Computer Technology — Eastern Illinois University
-- 📍 Charlotte, NC
+- 📍 Chicago, IL
 
 ---
 
@@ -105,26 +105,14 @@ Developing FastAPI microservices and scalable backend systems deployed on AWS (B
 
 ---
 
-## 🔗 Experience
-
-| 🏢 Company | 🎯 Role | 📅 Period |
-|---|---|---|
-| **Mastercard** 🏦 | Senior GenAI Engineer | May 2025 – Present |
-| **Humana** 🏥 | AI/ML Engineer | Jul 2023 – Apr 2025 |
-| **Voya Financial** 💰 | Sr. Python Developer | Jan 2020 – Nov 2021 |
-| **Sixbase Technologies** 💻 | Python Developer | Oct 2018 – Dec 2019 |
-| **Pay Zapp** 📱 | Python Developer | Jun 2016 – Sep 2018 |
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theeighteen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-genai/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinaykumar18165@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheEighteen)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thevinaykumar-vk)
 
-📍 Charlotte, NC &nbsp;|&nbsp; 📧 vinaykumar18165@gmail.com
+📍 Chicago, IL &nbsp;|&nbsp; 📧 vinaykumar18165@gmail.com
 
 </div>
